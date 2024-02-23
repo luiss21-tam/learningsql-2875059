@@ -20,5 +20,5 @@
   "window.zoomLevel": 3,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": false
 }
